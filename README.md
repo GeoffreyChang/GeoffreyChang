@@ -1,4 +1,4 @@
-## Hi, I’m Geoffrey Chang 👋 
+## Hi, I’m Geoffrey Chang <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a 19 year old student currently studying towards a Bachelor of Engineering (EngSci) at the University of Auckland.
 
