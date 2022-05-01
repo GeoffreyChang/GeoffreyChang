@@ -1,6 +1,6 @@
 ## Hi, I’m Geoffrey Chang 👋 
 
-I am 19 year old student studying towards a Bachelor of Engineering (EngSci) at the University of Auckland.
+I am a 19 year old student currently studying towards a Bachelor of Engineering (EngSci) at the University of Auckland.
 
 ### 🌱 Currently learning...
 * Python
