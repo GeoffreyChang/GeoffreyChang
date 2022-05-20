@@ -1,14 +1,21 @@
-## Hi, I’m Geoffrey Chang <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a 19 year old student currently studying towards a Bachelor of Engineering (EngSci) at the University of Auckland.
+## ⚙️ About me
+I am **Geoffrey Chang**, currently studying towards a Bachelors in **Engineering Science** at the **University of Auckland**.
 
-### 🌱 Currently learning...
+#### 🌱 Currently studying...
 * Python
+* Java
+
+#### 🌱 Self-learning...
 * JavaScript
 * HTML
 * CSS
 * PHP
 
+## 📞 Contact Me
+* <a href="https://www.instagram.com/geoffreychang_/">Instagram</a>
+* <a href="https://www.facebook.com/GeoffreyChangNZ/">Facebook</a>
 
 
 
