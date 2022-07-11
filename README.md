@@ -7,12 +7,6 @@ I am **Geoffrey Chang**, currently studying towards a Bachelors in **Engineering
 * Python
 * Java
 
-#### 🌱 Self-learning...
-* JavaScript
-* HTML
-* CSS
-* PHP
-
 ## 📞 Contact Me
 * <a href="https://www.instagram.com/geoffreychang_/">Instagram</a>
 * <a href="https://www.facebook.com/GeoffreyChangNZ/">Facebook</a>
