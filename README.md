@@ -5,11 +5,7 @@ I am **Geoffrey Chang**, currently studying towards a Bachelors in **Engineering
 
 #### 🌱 Currently studying...
 * Python
-* Java
-
-## 📞 Contact Me
-* <a href="https://www.instagram.com/geoffreychang_/">Instagram</a>
-* <a href="https://www.facebook.com/GeoffreyChangNZ/">Facebook</a>
+* C++
 
 
 
